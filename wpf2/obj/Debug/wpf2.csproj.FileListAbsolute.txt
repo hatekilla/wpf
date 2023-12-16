@@ -1,0 +1,81 @@
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.csproj.AssemblyReference.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\MainWindow.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\PageEmployee.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\PageMain.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\App.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2_Content.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2_MarkupCompile.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2_MarkupCompile.lref
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\TitleEmployee.mdf
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\TitleEmployee_log.ldf
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\wpf2.exe.config
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\wpf2.exe
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\wpf2.pdb
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\EntityFramework.dll
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\bin\Debug\EntityFramework.xml
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\App.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\MainWindow.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\PageEmployee.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\PageMain.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.g.resources
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.Properties.Resources.resources
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.csproj.GenerateResource.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.csproj.CoreCompileInputs.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.csproj.CopyComplete
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.exe
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\wpf2.pdb
+C:\Users\hatek\OneDrive\Рабочий стол\wawawdajwdhadhasdhashgfcdgxzshfvzhixcfg\курсова я\wpf2\wpf2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\TitleEmployee.mdf
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\TitleEmployee_log.ldf
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\wpf2.exe.config
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\wpf2.exe
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\wpf2.pdb
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\EntityFramework.dll
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\bin\Debug\EntityFramework.xml
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.csproj.AssemblyReference.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\MainWindow.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\PageEmployee.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\PageMain.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\App.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2_Content.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2_MarkupCompile.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2_MarkupCompile.lref
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\App.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\MainWindow.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\PageEmployee.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\PageMain.baml
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.g.resources
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.Properties.Resources.resources
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.csproj.GenerateResource.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.csproj.CoreCompileInputs.cache
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.csproj.CopyComplete
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.exe
+C:\Users\hatek\OneDrive\Рабочий стол\wpf2\wpf2\obj\Debug\wpf2.pdb
+Z:\wpf2\wpf2\bin\Debug\TitleEmployee.mdf
+Z:\wpf2\wpf2\bin\Debug\TitleEmployee_log.ldf
+Z:\wpf2\wpf2\bin\Debug\wpf2.exe.config
+Z:\wpf2\wpf2\bin\Debug\wpf2.exe
+Z:\wpf2\wpf2\bin\Debug\wpf2.pdb
+Z:\wpf2\wpf2\bin\Debug\EntityFramework.dll
+Z:\wpf2\wpf2\bin\Debug\EntityFramework.xml
+Z:\wpf2\wpf2\obj\Debug\wpf2.csproj.AssemblyReference.cache
+Z:\wpf2\wpf2\obj\Debug\MainWindow.g.cs
+Z:\wpf2\wpf2\obj\Debug\PageEmployee.g.cs
+Z:\wpf2\wpf2\obj\Debug\PageMain.g.cs
+Z:\wpf2\wpf2\obj\Debug\App.g.cs
+Z:\wpf2\wpf2\obj\Debug\wpf2_Content.g.cs
+Z:\wpf2\wpf2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\wpf2\wpf2\obj\Debug\wpf2_MarkupCompile.cache
+Z:\wpf2\wpf2\obj\Debug\wpf2_MarkupCompile.lref
+Z:\wpf2\wpf2\obj\Debug\App.baml
+Z:\wpf2\wpf2\obj\Debug\MainWindow.baml
+Z:\wpf2\wpf2\obj\Debug\PageEmployee.baml
+Z:\wpf2\wpf2\obj\Debug\PageMain.baml
+Z:\wpf2\wpf2\obj\Debug\wpf2.g.resources
+Z:\wpf2\wpf2\obj\Debug\wpf2.Properties.Resources.resources
+Z:\wpf2\wpf2\obj\Debug\wpf2.csproj.GenerateResource.cache
+Z:\wpf2\wpf2\obj\Debug\wpf2.csproj.CoreCompileInputs.cache
+Z:\wpf2\wpf2\obj\Debug\wpf2.csproj.CopyComplete
+Z:\wpf2\wpf2\obj\Debug\wpf2.exe
+Z:\wpf2\wpf2\obj\Debug\wpf2.pdb
